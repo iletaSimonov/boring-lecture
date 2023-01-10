@@ -1,0 +1,23 @@
+h2.intro {
+  color:darkgoldenrod;
+  text-align:center
+}
+
+p.intro {
+  font-style:oblique
+}
+
+img {
+  width: 400px;
+  height: 300px;
+  display: block;
+  margin: auto;
+
+}
+
+.id {
+  line-height: normal;
+}
+ h1{
+  text-align:center
+ }
